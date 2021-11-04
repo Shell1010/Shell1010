@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shell1010
-- 👀 I’m interested in booba
-- 🌱 I’m currently learning booba
-- 💞️ I’m looking to collaborate on booba
-- 📫 How to reach me booba
+# Shell
+I am sexy
+Please witness my sexyness
+
 
 <!---
 Shell1010/Shell1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
