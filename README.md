@@ -1,6 +1,5 @@
 # Shell
-I am sexy
-Please witness my sexyness
+----> Sexy
 
 
 <!---
