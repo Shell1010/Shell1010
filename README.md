@@ -3,9 +3,11 @@
 ![image](https://cdn.discordapp.com/attachments/963075510487900250/992593879096377404/omega.gif)
 
 ### About me:
+```
 * Python && Rust && JavaScript :sunglasses:
 * I eat food :fork_and_knife:
 * I like burger :burger:
+```
 
 
 
