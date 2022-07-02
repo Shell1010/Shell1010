@@ -4,9 +4,9 @@
 
 ### About me:
 ```
--  Python && Rust && JavaScript :sunglasses:
--  I eat food :fork_and_knife:
--  I like burger :burger:
+-  Python && Rust && JavaScript
+-  I eat food
+-  I like burger
 ```
 
 
