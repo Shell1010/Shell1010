@@ -1,11 +1,12 @@
 # Shell
 
 ### About me:
-```
+
 -  Python && Rust && JavaScript
 -  I eat food
 -  I like burger
-```
+-  My [discord server](https://discord.gg/fuf8t4JWDV)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
