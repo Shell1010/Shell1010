@@ -6,8 +6,8 @@
 -  My [discord server](https://discord.gg/fuf8t4JWDV)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true&theme=dark&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shell1010&theme=dark&show_icons=true&count_private=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shell1010&theme=dark&show_icons=true&count_private=true)
 
 
 <!---
