@@ -1,13 +1,15 @@
 # Shell
 
-![image](https://cdn.discordapp.com/attachments/963075510487900250/992593879096377404/omega.gif)
-
 ### About me:
 ```
 -  Python && Rust && JavaScript
 -  I eat food
 -  I like burger
 ```
+
+
+![image](https://cdn.discordapp.com/attachments/963075510487900250/992593879096377404/omega.gif)
+
 
 
 
