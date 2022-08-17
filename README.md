@@ -2,9 +2,7 @@
 
 ### About me:
 
--  Python && Rust && JavaScript
--  I eat food
--  I like burger
+-  Add me on discord - Shell#0124
 -  My [discord server](https://discord.gg/fuf8t4JWDV)
 
 
