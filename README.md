@@ -9,10 +9,10 @@ I code...
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true&theme=tokyonight&show_icons=true)](https://discord.gg/fuf8t4JWDV)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true&theme=dracula&show_icons=true)](https://discord.gg/fuf8t4JWDV)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shell1010&theme=tokyonight&show_icons=true&count_private=true)](https://discord.gg/fuf8t4JWDV)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shell1010&theme=dracula&show_icons=true&count_private=true)](https://discord.gg/fuf8t4JWDV)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shell1010&theme=dracula)](https://discord.gg/fuf8t4JWDV)
 
 <!---
 Shell1010/Shell1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
