@@ -7,9 +7,7 @@
 -  I like burger
 ```
 
-
-![image](https://cdn.discordapp.com/attachments/963075510487900250/992593879096377404/omega.gif)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
