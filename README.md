@@ -10,6 +10,7 @@ I'm Shell, a developer from the UK. I code yes.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shell1010&count_private=true&theme=dracula&show_icons=true)](https://discord.gg/fuf8t4JWDV)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shell1010&theme=dracula&show_icons=true&count_private=true)](https://discord.gg/fuf8t4JWDV)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shell1010&theme=dracula)](https://discord.gg/fuf8t4JWDV)
 
